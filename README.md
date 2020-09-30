@@ -14,7 +14,7 @@ git clone https://github.com/SenayYakut/New-York-City-Blog.git
 ## Usage
 
 ```HTML5
-
+https://senayyakut.github.io/New-York-City-Blog/
 
 ```
 
