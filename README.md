@@ -13,10 +13,8 @@ git clone https://github.com/SenayYakut/New-York-City-Blog.git
 
 ## Usage
 
-```HTML5
 https://senayyakut.github.io/New-York-City-Blog/
 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
