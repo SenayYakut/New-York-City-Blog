@@ -8,7 +8,7 @@ After researching New York City, you decide to create a blog for your viewers wh
 ## Installation
 
 ```bash
-
+git clone https://github.com/SenayYakut/New-York-City-Blog.git
 ```
 
 ## Usage
